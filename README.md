@@ -52,7 +52,7 @@ The Rock-Paper-Scissors game is a classic hand game that involves players choosi
     
     ```bash
     
-    python game.py
+    python play.py
     
     ```
     
